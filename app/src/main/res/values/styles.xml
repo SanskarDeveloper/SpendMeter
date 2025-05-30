@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define your dropdown style -->
+    <style name="CustomSpinnerStyle" parent="Widget.AppCompat.Spinner">
+        <item name="android:popupBackground">@color/white</item> <!-- Background color -->
+        <item name="android:textColor">@color/black</item> <!-- Text color -->
+        <item name="android:textSize">16sp</item> <!-- Text size -->
+    </style>
+</resources>

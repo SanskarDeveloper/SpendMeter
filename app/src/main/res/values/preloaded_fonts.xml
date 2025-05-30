@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/akaya_kanadaka</item>
+        <item>@font/baloo_bhaijaan</item>
+        <item>@font/kurale</item>
+        <item>@font/merriweather</item>
+        <item>@font/montserrat_alternates_thin</item>
+        <item>@font/montserrat_subrayada</item>
+        <item>@font/oswald_extralight</item>
+        <item>@font/roboto_mono</item>
+        <item>@font/roboto_serif_thin</item>
+    </array>
+</resources>

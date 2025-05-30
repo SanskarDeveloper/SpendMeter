@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Spend Meter</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="name">UserName</string>
+    <string name="pass">Password</string>
+    <string name="do_you_forget_your_password">Do you forget your password?</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="username">UserName</string>
+    <string name="description">User image</string>
+    <string name="customers">CUSTOMERS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all">All</string>
+    <string name="due_today">Due Today</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="_0">0</string>
+    <string name="textview">Textview</string>
+    <string name="enter_the_reason">Enter The Reason</string>
+    <string name="enter_amount_in_u20b9">Enter Amount in ₹</string>
+    <string name="create_new_customers">Create New Customers</string>
+    <string name="you_gave_u20b9">YOU GAVE ₹</string>
+    <string name="you_got_u20b9">YOU GOT ₹</string>
+    <string name="back_button">back Button</string>
+    <string name="welcome_to_appcraft_studio">Welcome to AppCraft Studio</string>
+    <string name="select_date">Select Date :</string>
+    <string name="rent">Rent</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="you_will_get">You Will Get</string>
+    <string name="you_will_give">You Will Give</string>
+    <string name="logo_image">Logo Image</string>
+    <string name="your_reason">Your Reason</string>
+</resources>
